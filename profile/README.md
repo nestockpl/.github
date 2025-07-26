@@ -1,2 +1,2 @@
 # 🚀 Nestock
-**` Nestock `** is a
+` Nestock ` is a
